@@ -1,0 +1,14 @@
+(002): Rock Paper Scissors
+
+General Idea:
+- This is a typical rock paper scissors game in which the user is going against the computer.
+
+Pseudocode:
+Computer displays welcome text
+
+1. The computer prompts the user to input their choice and it is stored
+3. Computer also randomly generates its choice from the options and it is stored
+4. Both choices are evaluated and a winner is found
+
+Libraries:
+- random
